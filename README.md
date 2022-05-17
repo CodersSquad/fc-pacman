@@ -24,7 +24,6 @@ Technical Requirements
 
 General Requirements
 --------------------
-- Source code must be hosted in the class `ap-labs` repository.
 - Make sure that you complete the below defined deliverables.
 - Source code dependencies must be clearly documented.
 
