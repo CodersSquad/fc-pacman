@@ -7,6 +7,7 @@ requirements for the enemies and human player (pacman) interation.
 
 ![Pacman](pacman.png)
 
+
 Technical Requirements
 ----------------------
 - The game's maze layout can be static.
@@ -20,11 +21,13 @@ Technical Requirements
 - Pacman loses when an enemy touches it.
 - Pacman wins the game when it has taken all coins in the map.
 
+
 General Requirements
 --------------------
 - Source code must be hosted in the class `ap-labs` repository.
 - Make sure that you complete the below defined deliverables.
 - Source code dependencies must be clearly documented.
+
 
 Deliverables
 ------------
@@ -61,4 +64,4 @@ Grading Policy
 
 - **Free Lab Bonus**
 
-  You get cat an extra bonus if you implement an Artificial Intelligence algorithm in enemies behaviour for finding the pacman location, trace the route and follow it.
+  You get cat an extra bonus if you implement an Artificial Intelligence algorithm in enemies behaviour for finding the pacman location, trace the route and follow it. This AI must be documented in the `ARCHITECTURE.md` file.
